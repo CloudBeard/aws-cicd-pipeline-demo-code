@@ -1,2 +1,2 @@
-# aws-cicd-pipeline-demo-code
-Demo code for AWS CICD pipeline
+# super-mario-cicd-democode
+Code Used to Test the Super Mario CICD Pipeline.
